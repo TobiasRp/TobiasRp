@@ -6,4 +6,4 @@ I believe that it is our responsibility as computer scientists and engineers to 
 
 My projects often involve Python, C++/CUDA, or a mix of both. Have fun checking out my projects!
 
-Find out more about me, my background, work experience, and publications on my personal website: https://tobiasrp.gitlab.io
+Find out more about me, my background, and publications on my personal website: https://tobiasrp.github.io
